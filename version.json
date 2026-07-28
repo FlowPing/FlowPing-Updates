@@ -1,6 +1,6 @@
 {
   "Version": "1.0.1",
-  "DownloadUrl": "https://github.com/YourUsername/FlowPing-Updates/releases/download/v1.0.0/FlowPing_Setup.exe",
+  "DownloadUrl": "https://github.com/FlowPing/FlowPing-Updates/releases/download/v1.0.1/FlowPing_Setup.exe",
   "ReleaseNotes": "- Fixed connection stability\n- Updated sing-box to v1.14.0",
   "IsRequired": false,
   "FileSize": 15728640,
