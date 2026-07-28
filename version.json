@@ -4,5 +4,5 @@
   "ReleaseNotes": "- Fixed connection stability\n- Updated sing-box to v1.14.0",
   "IsRequired": false,
   "FileSize": 15728640,
-  "SetupFileName": "FlowPing_Setup.exe"
+  "SetupFileName": "FlowPing_Setup_v1.0.0.exe"
 }
