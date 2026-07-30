@@ -1,8 +1,8 @@
 {
-  "Version": "1.0.2",
-  "DownloadUrl": "https://github.com/FlowPing/FlowPing-Updates/releases/download/v1.0.2/FlowPing_Setup_v1.0.2.exe",
-  "ReleaseNotes": "- فیکس کردن استرانگ مود و ریلیز کردن اولین بیلد پابلیک",
+  "Version": "1.0.3",
+  "DownloadUrl": "https://github.com/FlowPing/FlowPing-Updates/releases/download/v1.0.3/FlowPing_Setup_v1.0.3.exe",
+  "ReleaseNotes": "✨ نسخه 1.0.3\n\n🆕 اپ‌های جدید\n\n• Riot Games\n• SoundCloud\n• Rockstar Games\n• AMD\n• NVIDIA\n\n🔧 بهبودها و رفع باگ‌ها\n\n• بهبود نمایش پینگ واقعی در Fast Mode با استفاده از TCP Connect مستقیم.\n\n• رفع مشکل بسته نشدن کامل فرآیندها و درایور Windivert هنگام خروج از برنامه.\n\n• بهبود عملکرد Strong Mode با انتخاب خودکار بهترین کانفیگ بر اساس پینگ.",
   "IsRequired": false,
-  "FileSize": 9228640,
-  "SetupFileName": "FlowPing_Setup_v1.0.2.exe"
+  "FileSize": 0,
+  "SetupFileName": "FlowPing_Setup_v1.0.3.exe"
 }
