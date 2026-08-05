@@ -1,7 +1,7 @@
 {
   "Version": "1.1.4",
   "DownloadUrl": "https://github.com/FlowPing/FlowPing-Updates/releases/download/v1.1.4/FlowPing_Setup_v1.1.4.exe",
-  "ReleaseNotes": "✨ نسخه 1.1.3\n\\n\n🔧 رفع دو باگ امنیتی خیلی مهم  (این اپدیت یک اپدیت امنیتی است)\n",
+  "ReleaseNotes": "✨ نسخه 1.1.4\n\\n\n🔧 رفع دو باگ امنیتی خیلی مهم  (این اپدیت یک اپدیت امنیتی است)\n",
   "IsRequired": false,
   "FileSize": 0,
   "SetupFileName": "FlowPing_Setup_v1.1.4.exe"
